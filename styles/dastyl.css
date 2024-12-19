@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-image: url('imgs/4.jpg');
+}
+.big{
+    font-size: large;
+}
+.smol{
+    font-size: small;
+}
+button{
+    background-image: url('imgs/4.jpg');
+    border: none;
+}
