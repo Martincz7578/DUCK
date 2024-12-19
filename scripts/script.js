@@ -12,12 +12,15 @@ $(document).ready(function(){
         window.location.href = 'index.html';
     });
     $('#5').click(function(){
-        window.location.href = "https://martincz7578.github.io/HTML/"
+        //window.location.href = "https://martincz7578.github.io/HTML/"
+        window.open("https://martincz7578.github.io/HTML/")
     });
     $('#6').click(function(){
-        window.location.href = "https://martincz7578.github.io/MyFirstSite/"
+        //window.location.href = "https://martincz7578.github.io/MyFirstSite/"
+        window.open("https://martincz7578.github.io/MyFirstSite/")
     });
     $('#7').click(function(){
-        window.location.href = "https://martincz7578.github.io/Astrodynamics-s.r.o./"
+        //window.location.href = "https://martincz7578.github.io/Astrodynamics-s.r.o./"
+        window.open("https://martincz7578.github.io/Astrodynamics-s.r.o./")
     });
 });
